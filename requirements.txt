@@ -1,0 +1,20 @@
+# Core
+python-dotenv
+pandas
+streamlit
+
+# Reddit API
+praw
+
+# LangChain & LangGraph
+langchain
+langgraph
+langchain-core
+langchain-google-genai
+
+# Embeddings & Vector DB
+sentence-transformers
+chromadb
+
+# Misc
+tqdm
